@@ -13,7 +13,9 @@ end
 
 def long_planeteer_calls(array)
   #method should tell us if any? of the (names)are lomger than four characters
-  array.any?{|i| i == 4}
+  array2 = array.any?{|i| i == 4}
+  array2
+  
   
   
 end
