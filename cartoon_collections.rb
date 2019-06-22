@@ -20,8 +20,10 @@ def long_planeteer_calls(array)
   
 end
 
-def find_the_cheese# code an argument here
-  # the array below is here to help
+def find_the_cheese(cheesy)
+  
+  
+  
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
